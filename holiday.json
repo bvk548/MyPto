@@ -1,0 +1,25 @@
+{
+"Holidays":[
+    {
+        "date": "02-OCT-2022",
+        "title": "Gandhi Birthday",
+        "day": "Sunday"
+    },
+    {
+        "date": "05-OCT-2022",
+        "title": "Dassera",
+        "day": "Wednessday"
+    },
+    {
+        "date": "26-OCT-2022",
+        "title": "Diwali",
+        "day": "Wednessday"
+    },
+    {
+        "date": "01-NOV-2022",
+        "title": "Kannada Rajyotsava",
+        "day": "Tuesday"
+    }
+]
+}
+   
